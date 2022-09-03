@@ -8,4 +8,6 @@ The scripts handles new directory
 This script handles moving a file
 This scripts deletes a file
 This scripts deletes another file
-This scripts returns a directory to the previous one 
+This scripts returns a directory to the previous one
+this list everything
+ 

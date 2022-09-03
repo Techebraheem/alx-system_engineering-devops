@@ -7,3 +7,4 @@ This script list all files in digits only
 The scripts handles new directory
 This script handles moving a file
 This scripts deletes a file
+This scripts deletes another file

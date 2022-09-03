@@ -6,3 +6,4 @@ This script list all the files in a directory including those starting with dot 
 This script list all files in digits only
 The scripts handles new directory
 This script handles moving a file
+This scripts deletes a file

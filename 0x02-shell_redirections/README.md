@@ -5,4 +5,5 @@ This script prints the contents of two files.
 This script prints the last ten lines of the contents of a file.
 This script prints the first ten lines of the contents of a file.
 This script prints the third line of a file.
-This script prints the word best school. 
+This script prints the word best school.
+This script prints a standard input case. 

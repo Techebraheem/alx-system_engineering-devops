@@ -8,3 +8,4 @@ This script prints the third line of a file.
 This script prints the word best school.
 This script prints a standard input case. 
 This script duplicates the last line of a file.
+This script delete files with extention .js 

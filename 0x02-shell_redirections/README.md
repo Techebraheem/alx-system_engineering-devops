@@ -12,4 +12,5 @@ This script delete files with extention .js
 This script counts the number of dir and subdir in a current dir.
 This script displays the 10 newest files in the current directory.
 This script takes a list of words as input and prints only words that appear exactly once.
-This script display lines containing the pattern “root” from the file 
+This script display lines containing the pattern “root” from the file.
+This script display the number of lines that contain the pattern “bin” in the file. 
